@@ -24,4 +24,4 @@ Run preprocess.py
 python preprocess.py
 
 # Train model
-You can change the input data path and run. Note that the output from MFE is the STA_GCN's input.
+You can change the input data path and run. Note that the output from MFE is the Graphormer-net's input.
