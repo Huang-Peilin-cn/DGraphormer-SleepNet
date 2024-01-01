@@ -1,6 +1,6 @@
 # Graphormer-net
 
-***, which is improved from StAGN(https://github.com/Chen-Junyang-cn/StAGN/tree/main).
+Graphormer-SleepNet: A Novel Graphormer-based Method for Sleep Stage Classification, which is improved from StAGN(https://github.com/Chen-Junyang-cn/StAGN/tree/main).
 
 ![model_structure](./model_structure.jpg)
 
