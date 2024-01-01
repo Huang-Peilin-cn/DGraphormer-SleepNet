@@ -1,7 +1,6 @@
 # Graphormer-net
 
-
-StAGN: Spatial-Temporal Adaptive Graph Network via Constranstive Learning for Sleep Stage Classification, which is improved from MSTGCN.
+***, which is improved from StAGN(https://github.com/Chen-Junyang-cn/StAGN/tree/main).
 
 model_architecture
 
@@ -19,7 +18,7 @@ If you find this useful, please cite our work as follows:
 # Dataset
 The ISRUC dataset can be downloaded from website: https://sleeptight.isr.uc.pt
 
-#Preprocess
+# Preprocess
 Run preprocess.py
 
 python preprocess.py
