@@ -2,7 +2,7 @@
 
 ***, which is improved from StAGN(https://github.com/Chen-Junyang-cn/StAGN/tree/main).
 
-model_architecture
+(./model_structure.png)
 
 # Citation
 If you find this useful, please cite our work as follows:
