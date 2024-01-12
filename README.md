@@ -7,14 +7,8 @@ Graphormer-SleepNet: A Novel Graphormer-based Method for Sleep Stage Classificat
 # Citation
 If you find this useful, please cite our work as follows:
 
-@inproceedings{chen2023stagn,
-  title={StAGN: Spatial-Temporal Adaptive Graph Network via Contrastive Learning for Sleep Stage Classification},
-  author={Chen, Junyang and Dai, Yidan and Chen, Xianhui and Shen, Yingshan and Luximon, Yan and Wang, Hailiang and He, Yuxin and Ma, Wenjun and Fan, Xiaomao},
-  booktitle={Proceedings of the 2023 SIAM International Conference on Data Mining (SDM)},
-  pages={199--207},
-  year={2023},
-  organization={SIAM}
-}
+
+
 # Dataset
 The ISRUC dataset can be downloaded from website: https://sleeptight.isr.uc.pt
 
