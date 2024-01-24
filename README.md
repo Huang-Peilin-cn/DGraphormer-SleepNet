@@ -14,8 +14,6 @@ The ISRUC dataset can be downloaded from website: https://sleeptight.isr.uc.pt
 
 # Preprocess
 Run <code>preprocess.py
-
 <code>python preprocess.py
-
 # Train model
 You can change the input data path and run. Note that the output from MSFE is the DGraphormer-SleepNet's input.
