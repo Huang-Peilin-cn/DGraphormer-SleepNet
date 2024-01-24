@@ -13,7 +13,7 @@ If you find this useful, please cite our work as follows:
 The ISRUC dataset can be downloaded from website: https://sleeptight.isr.uc.pt
 
 # Preprocess
-Run '''preprocess.py'''
+Run <code>preprocess.py
 
 python preprocess.py
 
