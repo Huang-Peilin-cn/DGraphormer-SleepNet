@@ -1,6 +1,6 @@
-# Graphormer-SleepNet
+# DGraphormer-SleepNet
 
-Graphormer-SleepNet: DGraphormer-SleepNet: A Dual-graphormer-based Method for Sleep Stage Classification, which is improved from StAGN(https://github.com/Chen-Junyang-cn/StAGN/tree/main).
+DGraphormer-SleepNet: A Dual-graphormer-based Method for Sleep Stage Classification, which is improved from StAGN(https://github.com/Chen-Junyang-cn/StAGN/tree/main).
 
 ![model_structure](./model_structure.jpg)
 
