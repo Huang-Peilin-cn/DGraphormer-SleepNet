@@ -6,7 +6,16 @@ DGraphormer-SleepNet: A Dual-graphormer-based Method for Sleep Stage Classificat
 
 # Citation
 If you find this useful, please cite our work as follows:
-
+<pre>
+  @inproceedings{huang2024DGraphormer,
+  title={DGraphormer-SleepNet: A Dual-graphormer-based Method for Sleep Stage Classification},
+  author={Peilin Huang, Meiyu Qiu, Yi Liu, Bowen Zhang, Weidong Gao,and Xiaomao Fan},
+  booktitle={},
+  pages={},
+  year={2024},
+  organization={}
+}
+</pre>
 
 
 # Dataset
