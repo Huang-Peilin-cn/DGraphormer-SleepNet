@@ -27,11 +27,11 @@ You can change the input data path and run. Note that the output from MSFE is th
 If you find this useful, please cite our work as follows:
 <pre>
   @inproceedings{huang2024DGraphormer,
-  title={DGraphormer-SleepNet: A Dual-graphormer-based Method for Sleep Stage Classification},
+  title={Advancing Sleep Stages Classification through a Dual-Graphormer Approach},
   author={Peilin Huang, Meiyu Qiu, Yi Liu, Bowen Zhang, Weidong Gao,and Xiaomao Fan},
   booktitle={},
   pages={},
-  year={2024},
+  year={2025},
   organization={}
 }
 </pre>
