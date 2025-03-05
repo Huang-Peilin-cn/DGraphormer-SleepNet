@@ -9,7 +9,7 @@ Advancing Sleep Stages Classification through a Dual-Graphormer Approach, which 
 python 3.9
 tensorflow 2.11
 cuda 11.1
-</pre>pre>
+</pre>
 
 # Dataset
 The ISRUC dataset can be downloaded from website: https://sleeptight.isr.uc.pt
