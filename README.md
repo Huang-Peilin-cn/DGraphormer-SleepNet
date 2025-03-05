@@ -1,8 +1,25 @@
 # DGraphormer-SleepNet
 
-DGraphormer-SleepNet: A Dual-graphormer-based Method for Sleep Stage Classification, which is improved from StAGN(https://github.com/Chen-Junyang-cn/StAGN/tree/main).
+Advancing Sleep Stages Classification through a Dual-Graphormer Approach, which is improved from StAGN(https://github.com/Chen-Junyang-cn/StAGN/tree/main).
 
 ![model_structure](./model_structure.jpg)
+
+# Environment
+python 3.9
+tensorflow 2.11
+cuda 11.1
+
+
+# Dataset
+The ISRUC dataset can be downloaded from website: https://sleeptight.isr.uc.pt
+
+# Preprocess
+Run <code>preprocess.py</code> to pre-process the rawdata.
+<p><code>python preprocess.py</code></p>
+
+# Train model
+You can change the input data path and run. Note that the output from MSFE is the DGraphormer-SleepNet's input.
+
 
 # Citation
 If you find this useful, please cite our work as follows:
@@ -16,14 +33,3 @@ If you find this useful, please cite our work as follows:
   organization={}
 }
 </pre>
-
-
-# Dataset
-The ISRUC dataset can be downloaded from website: https://sleeptight.isr.uc.pt
-
-# Preprocess
-Run <code>preprocess.py</code>
-<p><code>python preprocess.py</code></p>
-
-# Train model
-You can change the input data path and run. Note that the output from MSFE is the DGraphormer-SleepNet's input.
