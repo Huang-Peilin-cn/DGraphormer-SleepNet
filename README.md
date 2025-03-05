@@ -20,7 +20,8 @@ Run <code>preprocess.py</code> to pre-process the rawdata.
 
 # Train model
 You can change the input data path and run. Note that the output from MSFE is the DGraphormer-SleepNet's input.
-
+<p><code>python MSFE.py</code></p>
+<p><code>python DGraphormer-SleepNet.py</code></p>
 
 # Citation
 If you find this useful, please cite our work as follows:
